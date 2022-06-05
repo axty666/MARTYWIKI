@@ -1,11 +1,19 @@
-# VuePress 快速上手
+## 介绍
 
-### 步骤一：git clone git@mobike.io:zhangyunchen/vuepress-devkit.git
+MARYT玩家axty搭建的玩家WIKI 主要记录MARYT服务器内的故事。
 
-### 步骤二：运行 npm install
+十分欢迎志同道合者与我们一起记叙下MARYT服务器的历史。
 
-### 步骤三：运行 npm run dev
+如有问题/反馈，欢迎给guangchangzhen@qq.com发邮件/QQ上私聊axty。
 
-### 最后：打开 http://localhost:8080/ 即可看到一个 Vue 文档风格的网站
+本WIKI已支持github actions自动部署！ 在线编辑完后只需提交，actions就能自动部署更新
 
-#### PS. 想获取更多部署方法，可以点击“快速上手” 第五节 部署上线，按步骤操作即可
+## 部署/自行搭建
+
+步骤一：git clone git@github.com:axty666/MARTYWIKI.git
+
+步骤二：运行 yarn install (请先执行npm install yarn -g安装yarn)
+
+步骤三：运行 yarn dev (部署请参见[这个](https://www.vuepress.cn/guide/deploy.html#github-pages)进行修改后执行yarn deploy)
+
+最后：打开 http://localhost:8080/ 即可 (若部署的话访问部署的页面链接即可)
