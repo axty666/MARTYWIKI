@@ -15,5 +15,4 @@ footer: MIT Licensed | Copyright © 2021-2022 MARYT WIKI
 本WIKI未来将要实现的：
 
 - 在可以预见的将来接入algolia搜索，搜索全文
-- 在可能预见的将来接入gitalk评论，实现聊天室(区)/评论室(区)的功能
-- 热更新
+- 热更新 √
