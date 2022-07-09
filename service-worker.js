@@ -27,67 +27,67 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "ed1a9b40f754fcb9f5c724bc047a55b1"
+    "revision": "156cf4cc0a11680aef644653609b4b74"
   },
   {
-    "url": "assets/css/0.styles.f72906e9.css",
-    "revision": "d41e31bd5842a7e5326fc8836fee8fef"
+    "url": "assets/css/0.styles.05debbe5.css",
+    "revision": "434e247dbcd28b5d37325e9d3bff3d42"
   },
   {
     "url": "assets/img/search.83621669.svg",
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.d5ebc0ef.js",
-    "revision": "93684959fb8735e05988c8c73a0a3842"
+    "url": "assets/js/10.6e50ee4a.js",
+    "revision": "cbc8b0a1c86b2556b333ace72f2b6ee0"
   },
   {
-    "url": "assets/js/11.25af197a.js",
-    "revision": "8cea563988a3774657424ca926252ad0"
+    "url": "assets/js/11.bf86cc47.js",
+    "revision": "f260ceeb3c6bea3bfabf5d1cdf50a23d"
   },
   {
-    "url": "assets/js/12.65c80e54.js",
-    "revision": "d4861bb2e9c756da116e8896259f8a40"
+    "url": "assets/js/12.3507ba8e.js",
+    "revision": "13564017e8c691737b03bfe574ab6248"
   },
   {
     "url": "assets/js/13.9d2bca77.js",
     "revision": "4ab4a288c8d25757f850cd94e208ea51"
   },
   {
-    "url": "assets/js/2.7b8c6095.js",
-    "revision": "8ce1648a11abc87ad410b56d3ff01e54"
+    "url": "assets/js/2.0c6a0924.js",
+    "revision": "2bac7a810c4c68f122a778780d4a983f"
   },
   {
-    "url": "assets/js/3.48218047.js",
-    "revision": "f71acff82619176995a1edbb167640b3"
+    "url": "assets/js/3.5ef26341.js",
+    "revision": "77a720ae130cd2479da44c419b55dc72"
   },
   {
-    "url": "assets/js/4.f6e750c0.js",
-    "revision": "f9493214d2e2f4d0231a49fa05d4eed6"
+    "url": "assets/js/4.775b7482.js",
+    "revision": "c83412336bf8d9ec7479eb78fdac4512"
   },
   {
-    "url": "assets/js/5.1e3618f4.js",
-    "revision": "598560d3daf7a74c8064fbbd0756b044"
+    "url": "assets/js/5.e1a87544.js",
+    "revision": "61b5b22fae459b1a107cc911a82c4a2e"
   },
   {
-    "url": "assets/js/6.4e584f87.js",
-    "revision": "43e5899d0093b7e85d13f5dad0e1b57b"
+    "url": "assets/js/6.f38644c4.js",
+    "revision": "31cac1ac84411392191dfa89cb7cea88"
   },
   {
-    "url": "assets/js/7.f6c4a55c.js",
-    "revision": "8071225bb611ae7b5d1f9dddc4cef50d"
+    "url": "assets/js/7.5f511c31.js",
+    "revision": "c567197c16b751e788e63510ce72bf32"
   },
   {
-    "url": "assets/js/8.c0bf2d86.js",
-    "revision": "b4acab18aabd41bdfdfd0200064c1005"
+    "url": "assets/js/8.5850cc65.js",
+    "revision": "800756b3835f61483abe6e59df6a807f"
   },
   {
-    "url": "assets/js/9.5bb9b6ab.js",
-    "revision": "0da2338c152d859cbe7755f91b3d04fd"
+    "url": "assets/js/9.ff1b3224.js",
+    "revision": "e5fe1a58c4e9d9c013fc7f72d1bc8e2b"
   },
   {
-    "url": "assets/js/app.50716cc4.js",
-    "revision": "2536932631cc885679b9072e0715de8f"
+    "url": "assets/js/app.792fa69d.js",
+    "revision": "92ace92ba34e2127650540e0b8e3d02c"
   },
   {
     "url": "CCopyBoard.js",
@@ -95,11 +95,11 @@ self.__precacheManifest = [
   },
   {
     "url": "example.html",
-    "revision": "82a6339e7fddb68d10fd06be55d33753"
+    "revision": "b33de14abac05c7c4dd9f7ac064347f2"
   },
   {
     "url": "gengwiki/index.html",
-    "revision": "3f41f7f3ce7e9b45eaa87164986849a7"
+    "revision": "4dafe8de80c9ca8734e284e59cc31e3b"
   },
   {
     "url": "icons/apple-touch-icon-152x152.png",
@@ -123,19 +123,19 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "7b1d0de7e05547df3ea3b12c8e474fe7"
+    "revision": "c22a853dc7a3fdda2ac3919922b74544"
   },
   {
     "url": "organize/index.html",
-    "revision": "939b8ec51d4a705c6855c05d86c57178"
+    "revision": "98cac728d7032678cf346266ca2e044b"
   },
   {
     "url": "playerin/index.html",
-    "revision": "52d8d6c9b8f552121c4b76ef4023fad4"
+    "revision": "6247205a14c46ee73eb0b144ee6fc7d9"
   },
   {
     "url": "start.html",
-    "revision": "423a64a7ab39329d78a3270924fa01cb"
+    "revision": "551568509c702b2209fc7d1a2321f89a"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
