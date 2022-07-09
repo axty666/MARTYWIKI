@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "a29ac2f47de46f510d299bdc549c6a56"
+    "revision": "52ee48ba04ad8bf9e4658a367ce3872f"
   },
   {
     "url": "assets/css/0.styles.05debbe5.css",
@@ -46,8 +46,8 @@ self.__precacheManifest = [
     "revision": "b7738cf8a3d90a725ad1a24ffe26db73"
   },
   {
-    "url": "assets/js/12.3507ba8e.js",
-    "revision": "13564017e8c691737b03bfe574ab6248"
+    "url": "assets/js/12.b9a726df.js",
+    "revision": "e3706d08fb5dcc892491f1114ca16593"
   },
   {
     "url": "assets/js/13.9d2bca77.js",
@@ -86,8 +86,8 @@ self.__precacheManifest = [
     "revision": "e5fe1a58c4e9d9c013fc7f72d1bc8e2b"
   },
   {
-    "url": "assets/js/app.e7105870.js",
-    "revision": "5ef8d9eaa30445ab2e8dea99379b6361"
+    "url": "assets/js/app.b17ffd10.js",
+    "revision": "924962e9d53f05ae101f26b443c940a0"
   },
   {
     "url": "CCopyBoard.js",
@@ -95,11 +95,11 @@ self.__precacheManifest = [
   },
   {
     "url": "example.html",
-    "revision": "0f7f5ff1568e5a31e2cce0cd1907a13b"
+    "revision": "4e0b626e29dc3f2bca40f09a6be25820"
   },
   {
     "url": "gengwiki/index.html",
-    "revision": "bedab7be617262ab1e5bdb6b1a2ce804"
+    "revision": "3e345a518fba5250b49776709df04938"
   },
   {
     "url": "icons/apple-touch-icon-152x152.png",
@@ -123,19 +123,19 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "8372efea4163b40c72a4e3edfe9b4a03"
+    "revision": "0a301aed519404ae0e8b27edfd45698f"
   },
   {
     "url": "organize/index.html",
-    "revision": "7b98e89adc4f2663923de011264ea7f5"
+    "revision": "e077f70203de3e0eb6aa93df4b90b8ce"
   },
   {
     "url": "playerin/index.html",
-    "revision": "8a277bee6a77cf9e0295d998fd052a6f"
+    "revision": "24e38d34476c9228b3c32796c4a146ee"
   },
   {
     "url": "start.html",
-    "revision": "6919998a7d75b2208befd9094e08af2c"
+    "revision": "dfa0a2f06f837c32a693127a3ce6ac77"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
