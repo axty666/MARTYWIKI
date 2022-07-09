@@ -8,19 +8,6 @@ editLink: false
 ---
 ```
 
-### 页面插入相关信息
-
-[欲知更多](https://vuepress-community.netlify.app/zh/plugins/git-log/#api) (不可直接在文档中使用)
-
-```md
-- 本页面的作者：{{ $page.git.author }}
-- 本页面的创建日期: {{ $page.git.created }}
-- 本页面的更新日期: {{ $page.git.updated }}
-- 本页面的更新日志: {{ $page.git.commits }}
-- 本页面的贡献者：{{ $page.git.contributors.join(', ') }}
-- 本页面的最后一次提交：{{ $page.git.commits[0].fullHash }}
-```
-
 ### 导航栏/侧边栏相关
 
 ```yaml

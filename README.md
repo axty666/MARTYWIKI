@@ -1,8 +1,8 @@
 ## 介绍
 
-MARYT玩家axty搭建的玩家WIKI 主要记录MARYT服务器内的故事。
+VANILO玩家axty搭建的玩家WIKI 主要记录VANILO服务器内的故事。
 
-十分欢迎志同道合者与我们一起记叙下MARYT服务器的历史。
+十分欢迎志同道合者与我们一起记叙下VANILO服务器的历史。
 
 如有问题/反馈，欢迎给guangchangzhen@qq.com发邮件/QQ上私聊axty。
 
@@ -10,7 +10,7 @@ MARYT玩家axty搭建的玩家WIKI 主要记录MARYT服务器内的故事。
 
 ## 部署/自行搭建
 
-步骤一：git clone git@github.com:axty666/MARTYWIKI.git
+步骤一：git clone git@github.com:axty666/VANILOWIKI.git
 
 步骤二：运行 yarn install (请先执行npm install yarn -g安装yarn)
 
