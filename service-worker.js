@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "156cf4cc0a11680aef644653609b4b74"
+    "revision": "4463ac539ed33c6a4fd2432e97ec01c4"
   },
   {
     "url": "assets/css/0.styles.05debbe5.css",
@@ -38,12 +38,12 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.6e50ee4a.js",
-    "revision": "cbc8b0a1c86b2556b333ace72f2b6ee0"
+    "url": "assets/js/10.9abb9929.js",
+    "revision": "6f8cb22a45d9294eb741969ae586e3be"
   },
   {
-    "url": "assets/js/11.bf86cc47.js",
-    "revision": "f260ceeb3c6bea3bfabf5d1cdf50a23d"
+    "url": "assets/js/11.5e4a1ac0.js",
+    "revision": "b7738cf8a3d90a725ad1a24ffe26db73"
   },
   {
     "url": "assets/js/12.3507ba8e.js",
@@ -86,8 +86,8 @@ self.__precacheManifest = [
     "revision": "e5fe1a58c4e9d9c013fc7f72d1bc8e2b"
   },
   {
-    "url": "assets/js/app.792fa69d.js",
-    "revision": "92ace92ba34e2127650540e0b8e3d02c"
+    "url": "assets/js/app.3f23cd06.js",
+    "revision": "f55b051d13bcd1a082e76e083e1c95fa"
   },
   {
     "url": "CCopyBoard.js",
@@ -95,11 +95,11 @@ self.__precacheManifest = [
   },
   {
     "url": "example.html",
-    "revision": "b33de14abac05c7c4dd9f7ac064347f2"
+    "revision": "02993d1fa723e81d610c9c69f47049f7"
   },
   {
     "url": "gengwiki/index.html",
-    "revision": "4dafe8de80c9ca8734e284e59cc31e3b"
+    "revision": "b6b4b22aab99ee2612fc6ccb4be464e9"
   },
   {
     "url": "icons/apple-touch-icon-152x152.png",
@@ -123,19 +123,19 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "c22a853dc7a3fdda2ac3919922b74544"
+    "revision": "9f9a87250172310cb020c14fa272e819"
   },
   {
     "url": "organize/index.html",
-    "revision": "98cac728d7032678cf346266ca2e044b"
+    "revision": "cbcfe6e58f022e5e7841e32925c3ae9f"
   },
   {
     "url": "playerin/index.html",
-    "revision": "6247205a14c46ee73eb0b144ee6fc7d9"
+    "revision": "a0aefba464e064dd14842b64e57b6db1"
   },
   {
     "url": "start.html",
-    "revision": "551568509c702b2209fc7d1a2321f89a"
+    "revision": "0f7a0b21c88fa35cb4aa9049e5e12bda"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
