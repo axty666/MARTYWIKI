@@ -82,6 +82,7 @@ module.exports = {
   themeConfig: {
       repo: 'axty666/MARTYWIKI', // 仓库地址
       docsBranch: 'main', // 文档所在分支 //欲知更多请前往https://www.vuepress.cn/theme/default-theme-config.html#git-仓库和编辑链接
+      docsDir: 'docs', // 文档所在文件夹
       editLinks: true, // 启用编辑此页
       editLinkText: '编辑此页', // 编辑此页的文本
       nextLinks: true, // 上一篇
