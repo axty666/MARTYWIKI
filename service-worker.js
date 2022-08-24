@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "299ad7ae919342e73a73be436d1cd84d"
+    "revision": "2cf4d02d2b5e7a319caa40538e0cd477"
   },
   {
     "url": "assets/css/0.styles.f72906e9.css",
@@ -86,12 +86,12 @@ self.__precacheManifest = [
     "revision": "16a99e3f04b583fe58f4d1da7300162b"
   },
   {
-    "url": "assets/js/9.c43d3e0b.js",
-    "revision": "4fb71e8695ca46ef7bf9bb017318b297"
+    "url": "assets/js/9.b9c4aff1.js",
+    "revision": "b66bb045449c2792098d524b05af38c1"
   },
   {
-    "url": "assets/js/app.9112ae67.js",
-    "revision": "86cb77af5154c6fce9d1a26c81ee42b0"
+    "url": "assets/js/app.8c5571dd.js",
+    "revision": "aff710cb43f3ff8eac871cabb839b64d"
   },
   {
     "url": "CCopyBoard.js",
@@ -99,11 +99,11 @@ self.__precacheManifest = [
   },
   {
     "url": "example.html",
-    "revision": "3ff11a8cb5191f41fe56c9496928423e"
+    "revision": "e96294a46d865ccf1d835d7ef0840f8e"
   },
   {
     "url": "gengwiki/index.html",
-    "revision": "785e7bb582a313d146a9efb48e7e9e2a"
+    "revision": "22376f76112f0eaa7db7645659ce0192"
   },
   {
     "url": "icons/apple-touch-icon-152x152.png",
@@ -127,23 +127,23 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "ed01e82ef17ff382dd37fa556eb8b13e"
+    "revision": "640f32b6c63b6d4c1e4530aa22196633"
   },
   {
     "url": "organize/index.html",
-    "revision": "b208b88c254efdb0025e5e89ec3e4672"
+    "revision": "fd1eb22a5773417986f39273a8c821f9"
   },
   {
     "url": "playerin/index.html",
-    "revision": "f4c99851e6f3bb150d4983a0690e6252"
+    "revision": "54907e3f82628cc119c74c8e53ad8c60"
   },
   {
     "url": "server/index.html",
-    "revision": "6712fa2b5fc0d8497153c9b48f22c61f"
+    "revision": "b5aaa043a3529c6633355136445fa81a"
   },
   {
     "url": "start.html",
-    "revision": "0bdb06904066c69795bc63a61c51e56d"
+    "revision": "e8d1d904843e1c91645eca8c62861baa"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
