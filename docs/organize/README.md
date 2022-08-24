@@ -24,7 +24,7 @@
 
 *MARYT官方动画制作组织，集m群内的Blockench/ Mine-imator方面的人才，致力于宣传MARYT。*
 
-目前组长是<a href="https://marytwiki.g-c-z.cc" title='MARYT Studio成员'><i><b>azurePh03nix</b></i></a>，副组长是<a href="https://marytwiki.g-c-z.cc" title='广场镇镇长'><i><b>axty</b></i></a>
+目前组长是<a href="https://marytwiki.g-c-z.cc" title='MARYT Studio成员，即苟佬'><i><b>azurePh03nix</b></i></a>，副组长是<a href="https://marytwiki.g-c-z.cc" title='MARYT玩家，现广场镇镇长'><i><b>axty</b></i></a>
 
 其计划中的作品有：《[前传]我在maryt的那些事》《[未知]未定名称前传后续》
 
@@ -50,7 +50,7 @@
 
 #### **第一阶段**
 
-*桃源乡的前身，由白桦佬创办。*
+*桃源乡的前身，由<a href="https://marytwiki.g-c-z.cc" title='MARYT玩家，现桃源乡镇长'><i><b>白桦佬</b></i></a>创办。*
 
 秉承自由入住，自由迁出，佛系管理的态度
 
@@ -58,7 +58,7 @@
 
 #### **第二阶段**
 
-*Karbot佬创办的玩家组织。*
+*<a href="https://marytwiki.g-c-z.cc" title='MARYT玩家'><i><b>Karbot佬</b></i></a>创办的玩家组织。*
 
 秉承帮助新佬和授人以鱼不如授人以渔的理念
 
@@ -66,19 +66,19 @@
 
 ### 长湖
 
-*由MARYT玩家政委佬 曾佬在7th建立，政委佬 曾佬 小明佬 饺子佬管理，目前处于复兴阶段。*
+*由MARYT玩家<a href="https://marytwiki.g-c-z.cc" title='MARYT玩家'><i><b> 政委佬 </b></i></a><a href="https://marytwiki.g-c-z.cc" title='MARYT玩家'><i><b> 曾佬  </b></i></a>在7th建立，<a href="https://marytwiki.g-c-z.cc" title='MARYT玩家'><i><b>政委佬 </b></i></a><a href="https://marytwiki.g-c-z.cc" title='MARYT玩家'><i><b> 曾佬  </b></i></a><a href="https://marytwiki.g-c-z.cc" title='MARYT玩家'><i><b>小明佬 </b></i></a><a href="https://marytwiki.g-c-z.cc" title='MARYT玩家'><i><b>饺子佬 </b></i></a>管理，目前处于复兴阶段。*
 
-长湖的曾经十分辉煌，苟佬和龙妹都曾经加入过长湖。是当时7th最繁荣的村庄（城镇）
+长湖的曾经十分辉煌，<a href="https://marytwiki.g-c-z.cc" title='MARYT Studio成员，即azurePh03nix'><i><b>苟佬</b></i></a>和<a href="https://marytwiki.g-c-z.cc" title='Betatester 成员'><i><b>龙妹</b></i></a>都曾经加入过长湖。是当时7th最繁荣的村庄（城镇）
 
 内有可以免费摘取苹果的苹果林和平价商店（出售盖亚魔典的道具居多）
 
 **10th主城的天守阁就是从7th长湖搬运来的**
 
-天守阁是当时曾佬模仿日本建筑up主软软硬硬伯爵的视频建造的
+天守阁是当时<a href="https://marytwiki.g-c-z.cc" title='MARYT玩家'><i><b> 曾佬  </b></i></a>模仿日本建筑up主软软硬硬伯爵的视频建造的
 
 8th期间长湖是唯一的玩家组织，其率先建立起公益厨房和公益冷暖空调房
 
-后来政委佬高考，曾佬隐退，之后的长湖就由小明佬来建立了
+后来<a href="https://marytwiki.g-c-z.cc" title='MARYT玩家'><i><b> 政委佬 </b></i></a>高考，曾佬隐退，之后的长湖就由小明佬来建立了
 
 ### 桃源乡
 
@@ -92,7 +92,7 @@
 
 秉持佛系招新，佛系管理，自由入住（迁出），帮助新佬的态度，可以看做是新手村的化身
 
-10th的分部因为白桦佬退隐暂且由慕斯代为管理了一段时间
+10th的分部因为<a href="https://marytwiki.g-c-z.cc" title='MARYT玩家，现桃源乡镇长'><i><b>白桦佬</b></i></a>退隐暂且由<a href="https://marytwiki.g-c-z.cc" title='MARYT玩家'><i><b>慕斯</b></i></a>代为管理了一段时间
 
 但常常在各周目的分部因为新佬搬迁 / 退隐而逐渐没落
 
@@ -108,7 +108,7 @@
 
 :::
 
-*氛围融洽，充满欢声笑语，频繁整活，且由广场镇管理组管理的一个玩家组织。*
+*氛围融洽，充满欢声笑语，频繁整活，且由<a href="https://g-c-z.cc/rules/" title='axty Fantasy_Z ShadiaoMo233 xiaopangua'><i><b>广场镇管理组</b></i></a>管理的一个玩家组织。*
 
 其具有自己的[官网](https://g-c-z.cc)以及[一系列服务](https://daohang.g-c-z.cc)，诞生于MARYT CLASSIC周目
 
@@ -120,7 +120,7 @@
 
 *比较神秘，人均发展水平较高的玩家组织*
 
-由正邪佬创建及管理 10th的分部为一个巨型的悬空浮岛
+由<a href="https://g-c-z.cc/rules/" title='MARYT玩家'><i><b>正邪佬</b></i></a>创建及管理 10th的分部为一个巨型的悬空浮岛
 
 ........
 
