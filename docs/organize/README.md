@@ -24,7 +24,7 @@
 
 *MARYT官方动画制作组织，集m群内的Blockench/ Mine-imator方面的人才，致力于宣传MARYT。*
 
-目前组长是azurePh03nix，副组长是axty
+目前组长是<a href="https://marytwiki.g-c-z.cc" title='MARYT Studio成员'><i><b>azurePh03nix</b></i></a>，副组长是<a href="https://marytwiki.g-c-z.cc" title='广场镇镇长'><i><b>axty</b></i></a>
 
 其计划中的作品有：《[前传]我在maryt的那些事》《[未知]未定名称前传后续》
 
