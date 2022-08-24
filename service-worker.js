@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "2cf4d02d2b5e7a319caa40538e0cd477"
+    "revision": "7097c026c40baaf3ddd70baaf361e8a7"
   },
   {
     "url": "assets/css/0.styles.f72906e9.css",
@@ -38,16 +38,16 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.b31ff1ad.js",
-    "revision": "446021151aacda1d2dea489cda39a331"
+    "url": "assets/js/10.1180f0f8.js",
+    "revision": "f1d1051d5ba01171bf2b16e6459d6573"
   },
   {
-    "url": "assets/js/11.25af197a.js",
-    "revision": "8cea563988a3774657424ca926252ad0"
+    "url": "assets/js/11.86018326.js",
+    "revision": "210e0e87280d42236e66fde96c6e1c07"
   },
   {
-    "url": "assets/js/12.bd3d0979.js",
-    "revision": "a036f914665ed5eaadd668cadc8a413b"
+    "url": "assets/js/12.3c3235fa.js",
+    "revision": "1f93f393319fd6fd7e8ffb6b931412dd"
   },
   {
     "url": "assets/js/13.2e8d7aac.js",
@@ -90,8 +90,8 @@ self.__precacheManifest = [
     "revision": "b66bb045449c2792098d524b05af38c1"
   },
   {
-    "url": "assets/js/app.8c5571dd.js",
-    "revision": "aff710cb43f3ff8eac871cabb839b64d"
+    "url": "assets/js/app.1ee4f358.js",
+    "revision": "14bd0216f8139d3b7f4505629cb76829"
   },
   {
     "url": "CCopyBoard.js",
@@ -99,11 +99,11 @@ self.__precacheManifest = [
   },
   {
     "url": "example.html",
-    "revision": "e96294a46d865ccf1d835d7ef0840f8e"
+    "revision": "68fe88ffe1b2828f1dc7cffefcd93d20"
   },
   {
     "url": "gengwiki/index.html",
-    "revision": "22376f76112f0eaa7db7645659ce0192"
+    "revision": "a4aff089aeea44941f113cd85453384b"
   },
   {
     "url": "icons/apple-touch-icon-152x152.png",
@@ -127,23 +127,23 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "640f32b6c63b6d4c1e4530aa22196633"
+    "revision": "038f675355b6fdc6506d42af76f2ca99"
   },
   {
     "url": "organize/index.html",
-    "revision": "fd1eb22a5773417986f39273a8c821f9"
+    "revision": "ce5e199e763aca7bafcf99a0f03f020b"
   },
   {
     "url": "playerin/index.html",
-    "revision": "54907e3f82628cc119c74c8e53ad8c60"
+    "revision": "5436114de6e4078646fdd26e8bfa2bd7"
   },
   {
     "url": "server/index.html",
-    "revision": "b5aaa043a3529c6633355136445fa81a"
+    "revision": "59b7357a6d6f1dbc79e4b0b2a4f411b9"
   },
   {
     "url": "start.html",
-    "revision": "e8d1d904843e1c91645eca8c62861baa"
+    "revision": "a2bf7b76eb35c930f8281bbd94af43c8"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
