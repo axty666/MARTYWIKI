@@ -1,4 +1,4 @@
-name: Build and Deploy (autoupdate is very nice!)
+name: Build and Deploy
 on:
   push:
    branches:
