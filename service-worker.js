@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "1f2dc67952068e6c84bea0d94466c8c3"
+    "revision": "cf724da04f88bd06a522efcf7f62cacd"
   },
   {
     "url": "assets/css/0.styles.f72906e9.css",
@@ -90,8 +90,8 @@ self.__precacheManifest = [
     "revision": "b66bb045449c2792098d524b05af38c1"
   },
   {
-    "url": "assets/js/app.7c23fc9f.js",
-    "revision": "3d2631d78fde854dfb3a4fa8557736d2"
+    "url": "assets/js/app.3b5b100d.js",
+    "revision": "8e2b9d12ea079f36b52a389677b63512"
   },
   {
     "url": "CCopyBoard.js",
@@ -99,11 +99,11 @@ self.__precacheManifest = [
   },
   {
     "url": "example.html",
-    "revision": "92da4e0d90a59fdb294d73980b72c634"
+    "revision": "349b57888abe58246f999c7bbb3c7d65"
   },
   {
     "url": "gengwiki/index.html",
-    "revision": "ac040dd5aeed16cf274b68e99b49bab1"
+    "revision": "d0b3bd7330fb4ac4e8a9bf18496970fb"
   },
   {
     "url": "icons/apple-touch-icon-152x152.png",
@@ -127,23 +127,23 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "4ba839c0655705f8296518adbc648efe"
+    "revision": "dab8cfa8070d924576e6f2f3f40ed6d7"
   },
   {
     "url": "organize/index.html",
-    "revision": "40a23cd0cbb4c922fad02c0e8e0a9b0a"
+    "revision": "e699ea4eb1f7f2beda08eb75298f5e79"
   },
   {
     "url": "playerin/index.html",
-    "revision": "cac6472932988af74c3aa71eac271f65"
+    "revision": "41bfd75ce0e80402549e7025a825caf1"
   },
   {
     "url": "server/index.html",
-    "revision": "bf39b8a4b8b42f1ed5e5008d23d01ff1"
+    "revision": "0b4117b0662dfee2686a1e46ef5bc312"
   },
   {
     "url": "start.html",
-    "revision": "635bac45301c4cd267a114b8fcfbb8ae"
+    "revision": "5fb46cc0fe2cd5ebf386f8ddbfe30693"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
