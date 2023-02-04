@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "062715af48bb56adbeed86f08a94d89f"
+    "revision": "e2e11d6b1fbbc60c148df9e5909b66cb"
   },
   {
     "url": "assets/css/0.styles.f72906e9.css",
@@ -38,8 +38,8 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.1021e25c.js",
-    "revision": "646073ded9f98dccfcbe320e2d3fb472"
+    "url": "assets/js/10.f490e167.js",
+    "revision": "e2b97a4a4a6eb78a287cbe7e85e41767"
   },
   {
     "url": "assets/js/11.25af197a.js",
@@ -90,8 +90,8 @@ self.__precacheManifest = [
     "revision": "59af5d7baf2362fcc85e9f95be85d132"
   },
   {
-    "url": "assets/js/app.c8775b10.js",
-    "revision": "5abc7bf2ef64b81bfa3bafc7711159ff"
+    "url": "assets/js/app.665c4965.js",
+    "revision": "8c123874433dec9d15f50d8affc31472"
   },
   {
     "url": "CCopyBoard.js",
@@ -99,11 +99,11 @@ self.__precacheManifest = [
   },
   {
     "url": "example.html",
-    "revision": "65eda81e7708e242086ef0056399ec75"
+    "revision": "6fbf5e4943b89471fe9e6ffe0bc9da99"
   },
   {
     "url": "gengwiki/index.html",
-    "revision": "155fa104c993a21f0b2a6404a6ccfeec"
+    "revision": "8479ce20c4cd565f4c6f905aa1213d3f"
   },
   {
     "url": "icons/apple-touch-icon-152x152.png",
@@ -127,23 +127,23 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "6021fac38e322a2aa8df2c503d5d34ed"
+    "revision": "703e349eae2597d88decec8817f5fab3"
   },
   {
     "url": "organize/index.html",
-    "revision": "4d34c13b8de0c872918332d28962c1ff"
+    "revision": "89cfbe0331a652907940331f045b24fd"
   },
   {
     "url": "playerin/index.html",
-    "revision": "823c019cfd2133ea7b7adf4be41b468c"
+    "revision": "96ae3e64661a8893d2781e3b13845f98"
   },
   {
     "url": "server/index.html",
-    "revision": "6092b44fc72e44e1c4c7949e8e599b6a"
+    "revision": "9cb61d292aa239e2ca09414b1214bfa7"
   },
   {
     "url": "start.html",
-    "revision": "2bdf63498c7a673471218ce3a748a124"
+    "revision": "e21eb50ff29a913ae0d6461509a86fa8"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
