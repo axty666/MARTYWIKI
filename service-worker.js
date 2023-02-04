@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "96abd9c9249fb859fefebb1ece57b0d3"
+    "revision": "3ec770f50b2a92c120b0db89befc8933"
   },
   {
     "url": "assets/css/0.styles.f72906e9.css",
@@ -38,20 +38,20 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.4f227b1b.js",
-    "revision": "4d6eb5a7b403f19591d0cd1dceb08ef4"
+    "url": "assets/js/10.64a5249d.js",
+    "revision": "357461e98b3f5235013ead153c85e38d"
   },
   {
     "url": "assets/js/11.86018326.js",
     "revision": "210e0e87280d42236e66fde96c6e1c07"
   },
   {
-    "url": "assets/js/12.3c3235fa.js",
-    "revision": "1f93f393319fd6fd7e8ffb6b931412dd"
+    "url": "assets/js/12.bd3d0979.js",
+    "revision": "a036f914665ed5eaadd668cadc8a413b"
   },
   {
-    "url": "assets/js/13.7c439a49.js",
-    "revision": "4edd8e939981fb5ea427db2bad156907"
+    "url": "assets/js/13.2e8d7aac.js",
+    "revision": "0ce20bd7f05ec9ea50464946546e8f8e"
   },
   {
     "url": "assets/js/14.5274f083.js",
@@ -78,20 +78,20 @@ self.__precacheManifest = [
     "revision": "43e5899d0093b7e85d13f5dad0e1b57b"
   },
   {
-    "url": "assets/js/7.f24c9127.js",
-    "revision": "0c4ba80b5a98d1c20ba49ca77a5c07a7"
+    "url": "assets/js/7.be167751.js",
+    "revision": "b5de2bca08e4775b64ffd3df170a7edb"
   },
   {
-    "url": "assets/js/8.127053db.js",
-    "revision": "cea43ba78a3512a9750cfc4c5c3893df"
+    "url": "assets/js/8.c6f8972c.js",
+    "revision": "a5d01171784dfa91a34336b275f08f5c"
   },
   {
-    "url": "assets/js/9.a590ac4d.js",
-    "revision": "accbd8c0f0d4f07874d024781b241096"
+    "url": "assets/js/9.eea2e495.js",
+    "revision": "59af5d7baf2362fcc85e9f95be85d132"
   },
   {
-    "url": "assets/js/app.7a11cd38.js",
-    "revision": "1d2add6476d8fd99a6ed6c896ce17d56"
+    "url": "assets/js/app.8435203a.js",
+    "revision": "f72835fa353eb610e11007d40147c9c0"
   },
   {
     "url": "CCopyBoard.js",
@@ -99,11 +99,11 @@ self.__precacheManifest = [
   },
   {
     "url": "example.html",
-    "revision": "8129468a7d7e45ae8404f3e2fdf6d91a"
+    "revision": "4881d65423d4395d696fd2ec121da86d"
   },
   {
     "url": "gengwiki/index.html",
-    "revision": "5b04906c2a001ea07d3191d4ef36a8ac"
+    "revision": "e54f5c05265a2d7dd17c18c2a8b96e65"
   },
   {
     "url": "icons/apple-touch-icon-152x152.png",
@@ -127,23 +127,23 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "10fa52d76c2bc7774c005e9d116579cb"
+    "revision": "43540c70149c9f755e9c9779ad37a0b9"
   },
   {
     "url": "organize/index.html",
-    "revision": "65e9bf436e0c840a641e4e45026fb17d"
+    "revision": "3e2be9a2e581f78e6d08e5a0ee5171df"
   },
   {
     "url": "playerin/index.html",
-    "revision": "20b15b0f2d402ce562e0ac32a7f0b117"
+    "revision": "cbb9b9cea0e758598da73823f700ac5a"
   },
   {
     "url": "server/index.html",
-    "revision": "f78974fa7f1a6c6c547ff010a25af90e"
+    "revision": "26a67075a056ce2b961d1dfe8aa7a4f3"
   },
   {
     "url": "start.html",
-    "revision": "56833fdc4d0c0cb862a8360d809eaefd"
+    "revision": "bede0f7ac8703e7dc7a0a0f1052cb23f"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
