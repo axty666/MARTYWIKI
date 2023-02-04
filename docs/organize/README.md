@@ -22,7 +22,7 @@
 
 ### 麦阿尼动画
 
-*MARYT官方动画制作组织，集m群内的Blockench/ Mine-imator方面的人才，致力于宣传MARYT。*
+*MARYT官方动画制作组织，集m群内的Blockench / Mine-imator方面的人才，致力于宣传MARYT。*
 
 目前组长是<a href="https://marytwiki.g-c-z.cc" title='MARYT Studio成员，即苟佬'><i><b>azurePh03nix</b></i></a>，副组长是<a href="https://marytwiki.g-c-z.cc" title='MARYT玩家，现广场镇镇长'><i><b>axty</b></i></a>
 
@@ -92,7 +92,7 @@
 
 秉持佛系招新，佛系管理，自由入住（迁出），帮助新佬的态度，可以看做是新手村的化身
 
-10th的分部因为<a href="https://marytwiki.g-c-z.cc" title='MARYT玩家，现桃源乡镇长'><i><b>白桦佬</b></i></a>退隐暂且由<a href="https://marytwiki.g-c-z.cc" title='MARYT玩家'><i><b>慕斯</b></i></a>代为管理了一段时间
+10th的分部因为<a href="https://marytwiki.g-c-z.cc" title='MARYT玩家，现桃源乡镇长'><i><b>白桦佬</b></i></a>退隐暂且由<a href="https://marytwiki.g-c-z.cc" title='MARYT玩家'><i><b>慕斯</b></i></a>代为管理了一段时间，现由<a href="https://marytwiki.g-c-z.cc" title='广场镇管理组成员，MARYT玩家'><i><b>Fantasy_Z</b></i></a>
 
 但常常在各周目的分部因为新佬搬迁 / 退隐而逐渐没落
 
@@ -108,19 +108,19 @@
 
 :::
 
-*氛围融洽，充满欢声笑语，频繁整活，且由<a href="https://g-c-z.cc/rules/" title='axty Fantasy_Z ShadiaoMo233 xiaopangua'><i><b>广场镇管理组</b></i></a>管理的一个玩家组织。*
+*氛围融洽，充满欢声笑语，频繁整活，由<a href="https://g-c-z.cc/rules/" title='axty Fantasy_Z ShadiaoMo233 xiaopangua'><i><b>广场镇管理组</b></i></a>管理的一个玩家组织。*
 
-其具有自己的[官网](https://g-c-z.cc)以及[一系列服务](https://daohang.g-c-z.cc)，诞生于MARYT CLASSIC周目
+其具有自己的[官网](https://g-c-z.cc)以及[一系列服务](https://daohang.g-c-z.cc)，诞生于MARYT CLASSIC 1.16快照服周目
 
 秉承帮助新佬，和谐整活的态度，具有较为完善的管理制度
 
-在各个周目（9th+）的分部常常因为玩家退隐而逐渐没落
+在各个周目（MARYT CLASSIC 1.16快照服以后）的分部常常因为玩家退隐而逐渐没落
 
 ### 辉针城
 
 *比较神秘，人均发展水平较高的玩家组织*
 
-由<a href="https://g-c-z.cc/rules/" title='MARYT玩家'><i><b>正邪佬</b></i></a>创建及管理 10th的分部为一个巨型的悬空浮岛
+由<a href="[https://g-c-z.cc/rules/](https://marytwiki.g-c-z.cc)" title='MARYT玩家'><i><b>正邪佬</b></i></a>创建及管理 10th的分部为一个巨型的悬空浮岛
 
 ........
 
