@@ -120,7 +120,7 @@
 
 *比较神秘，人均发展水平较高的玩家组织*
 
-由<a href="[https://g-c-z.cc/rules/](https://marytwiki.g-c-z.cc)" title='MARYT玩家'><i><b>正邪佬</b></i></a>创建及管理 10th的分部为一个巨型的悬空浮岛
+由<a href="https://marytwiki.g-c-z.cc" title='MARYT玩家'><i><b>正邪佬</b></i></a>创建及管理 10th的分部为一个巨型的悬空浮岛
 
 ........
 
